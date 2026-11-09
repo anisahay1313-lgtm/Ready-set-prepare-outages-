@@ -1,0 +1,6 @@
+{
+  "name": "Power Outage Resilience Simulator",
+  "description": "An interactive preparedness simulator modeling cascading utility failures and prolonged power cuts, built with official Red Cross disaster protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

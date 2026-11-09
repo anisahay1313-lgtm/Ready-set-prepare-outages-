@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: "Plus Jakarta Sans", "Inter", sans-serif;
+
+  --color-brc-red: #EE2A24;
+  --color-brc-darkred: #C51D18;
+  --color-brc-lightred: #FDF2F2;
+  --color-brc-softred: #FCE8E7;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #F4F4F5;
+  color: #18181B;
+  -webkit-font-smoothing: antialiased;
+}
+
+
